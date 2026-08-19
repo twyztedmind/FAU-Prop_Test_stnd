@@ -1,0 +1,5 @@
+[
+  {"name": "cell-1", "motor": "MN505-S", "prop": "15x5",   "supply": "6S 25.2V"},
+  {"name": "cell-2", "motor": "MN505-S", "prop": "16x5.4", "supply": "6S 25.2V"},
+  {"name": "bench",  "motor": "unspecified", "prop": "unspecified", "supply": "6S 25.2V"}
+]
